@@ -4,3 +4,6 @@
 [submodule "TGC001"]
 	path = TGC001
 	url = https://github.com/uni-kakurenbo/TGC001
+[submodule "TGC002"]
+	path = TGC002
+	url = https://github.com/uni-kakurenbo/TGC002
