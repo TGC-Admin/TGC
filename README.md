@@ -10,4 +10,5 @@ The Gray - Beginner's Algorithmic Competition
 [@achapi](https://twitter.com/achapi_kyopuro)  
 [@FplusFplusF](https://twitter.com/FplusFplusF____)  
 [@SyantaxError](https://twitter.com/SyNtAx_error_1)  
-[@uni_kakurenbo](https://twitter.com/KakurenboUni)  
+[@uni_kakurenbo](https://twitter.com/KakurenboUni)    
+[@kusirakusira](https://twitter.com/kusirakusira)  
