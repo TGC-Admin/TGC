@@ -9,6 +9,7 @@ The Gray - Beginner's Algorithmic Competition
 
 [@achapi](https://twitter.com/achapi_kyopuro)  
 [@FplusFplusF](https://twitter.com/FplusFplusF____)  
-[@SyantaxError](https://twitter.com/SyNtAx_error_1)  
 [@kusirakusira](https://twitter.com/kusirakusira)  
+[@SyantaxError](https://twitter.com/SyNtAx_error_1)  
+[@viral](https://twitter.com/viral8code)    
 [@uni_kakurenbo](https://twitter.com/KakurenboUni)    
